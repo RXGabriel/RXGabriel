@@ -1,6 +1,6 @@
 ### Hi there 😎
 
-- Hi, I'm Gabriel Roux, I am a dev passionate about technology!
+- Hi, I'm Gabriel Rafael, I am a dev passionate about technology!
 
 - Currently learning and creating projects with :
 
